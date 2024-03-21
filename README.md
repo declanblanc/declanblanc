@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Declan Blanchard</h1>
+<h1 align="center">Hi 👋, I'm Declan 💪🏋️‍♂️</h1>
 <h3 align="center">Another computer science major</h3>
 
 - 📫 How to reach me **declanblanc@gmail.com**
