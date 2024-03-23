@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Declan 💪🏋️‍♂️</h1>
 <h3 align="center">"A good developer's greatest fear is discovering that something is working but not knowing how it works."</h3>
-- 📫 How to reach me **declanblanc@gmail.com**
+- 📫 How to reach me **declanblanc@gmail.com** 
+
 - 📄 Know about my experiences [https://sapphire-anabella-34.tiiny.site/](https://sapphire-anabella-34.tiiny.site/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
