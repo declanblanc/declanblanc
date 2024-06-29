@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Declan 💪🏋️‍♂️</h1>
-<h3 align="center">"A good developer's greatest fear is discovering that something is working but not knowing how it works."</h3>
+<h3 align="center"><i>Beautiful code is short and concise, so if you were to give that code to another programmer they would say, "oh, that's well written code." It's much like as if you were writing a poem</i> <br>-Santiago Gonzalez</h3>
 
 * 📫 How to reach me **declanblanc@gmail.com**   
 
