@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Declan 💪🏋️‍♂️</h1>
 <h3 align="center"><i>Good code small, not big. Other coder see, say, “Ooga, nice code!” Like poem, make brain happy.</i> <br>-Socrates, 400 BCE</h3>
 
+# Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
+
 * 📫 **declanblanc@gmail.com**   
 
 <p align="left">
