@@ -2,9 +2,9 @@
 
 ### 📎[Todoist](http://todoist.com/) Stats 📝
 <!-- TODO-IST:START -->
-🏆  11,874 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 925 tasks so far           
+🏆  11,882 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 928 tasks so far           
 ⏳  Longest streak is 11 days
 <!-- TODO-IST:END -->
 * 📫 **declanblanc@gmail.com**   
