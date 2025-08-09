@@ -1,4 +1,6 @@
-# Hello, World! <br>💾🏋️‍♂️👨🏻‍💻👾 改善
+# Hello, World! <br>🏋️‍♂️👨🏻‍💻👾 改善
+📫 **declanblanc@gmail.com**   
+
 
 ### 📎[Todoist](http://todoist.com/) Stats 📝
 <!-- TODO-IST:START -->
@@ -7,11 +9,8 @@
 ✅  Completed 1,452 tasks so far           
 ⏳  Longest streak is 36 days
 <!-- TODO-IST:END -->
-* 📫 **declanblanc@gmail.com**   
 
-<p align="left">
 
-<a href="https://twitter.com/declanblanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="declanblanc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/declanblanc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="declanblanc" height="30" width="40" /></a>
-<a href="https://instagram.com/declanblan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="declanblan" height="30" width="40" /></a>
-</p>
+--- 
+
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Declan%20Blanchard/Software%20Engineer/​Bachelor's%20Degree/​May%202026/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E03AQHxBT05-9iJhQ%2Fprofile-displayphoto-shrink_800_800%2Fprofile-displayphoto-shrink_800_800%2F0%2F1725843734712%3Fe%3D1757548800%26v%3Dbeta%26t%3DJzro16W_ATTPWq5RIuXF5XiYN-UQBFWJC-lVthjjT5c)](https://www.linkedin.com/in/declanblanc/)
