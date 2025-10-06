@@ -4,9 +4,9 @@
 
 ### 📎[Todoist](http://todoist.com/) Stats 📝
 <!-- TODO-IST:START -->
-🏆  16,687 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 1,702 tasks so far           
+🏆  16,727 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 1,704 tasks so far           
 ⏳  Longest streak is 54 days
 <!-- TODO-IST:END -->
 
